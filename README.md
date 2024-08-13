@@ -7,4 +7,6 @@ A JSON file is created for the data, if you want to look at the list inside of t
 
 You must also have a Python IDE installed, as this is only a text based script / program. This will be updated later once I learn how to code GUIs.
 
+You do NOT need to install any external libraries or modules for this script to work. It is efficient and easy to get up and running!
+
 
