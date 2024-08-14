@@ -10,4 +10,6 @@ You must also have a Python IDE installed, as this is only a text based script /
 
 You do NOT need to install any external libraries or modules for this script to work. It is efficient and easy to get up and running!
 
+** THE NEW VERSION OF THE SCRIPT IS IN THE FOLDER WITH THE JSON FILE. **
+
 
